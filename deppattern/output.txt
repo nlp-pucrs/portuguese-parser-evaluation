@@ -1,0 +1,312 @@
+./dp.sh -c treetagger pt Corpus 
+
+----------------------------------------------------------------------------
+
+Nessa época, Fishel teria conhecido o ginecologista britânico Robert Winston, a quem convidou para um encontro científico promovido por Antinori.
+
+Nessa prlemma:em|pos:0|tag:PRP|token:Nessa|type:0|
+época	gender:0|lemma:época|number:0|person:3|pos:1|tag:NOUN|token:época|type:P|
+,	lemma:,|pos:2|tag:Fc|token:,|
+Fishel	gender:0|lemma:Fishel|number:0|person:3|pos:3|tag:NOUN|token:Fishel|type:P|
+teria	gender:0|lemma:ter|mode:0|number:0|person:0|pos:4|tag:VERB|tense:0|token:teria|type:0|
+conhecido	gender:0|lemma:conhecer|mode:0|number:0|person:0|pos:5|subj:yes|tag:VERB|tense:0|token:conhecido|type:perfect|
+o	gender:0|lemma:o|number:0|person:0|pos:6|possessor:0|tag:DT|token:o|type:0|
+ginecologista	gender:0|lemma:ginecologista|number:0|person:3|pos:7|tag:NOUN|token:ginecologista|type:C|
+britânico	degree:0|function:0|gender:0|lemma:britânico|number:0|pos:8|tag:ADJ|token:britânico|type:0|
+Robert&Winston	gender:0|lemma:Robert&Winston|number:0|person:3|pos:9|tag:NOUN|token:Robert&Winston|type:P|
+,	lemma:,|pos:10|tag:Fc|token:,|
+a	gender:0|lemma:a|number:0|person:0|pos:11|possessor:0|tag:DT|token:a|type:0|
+quem	case:0|gender:0|lemma:quem|number:0|person:0|politeness:0|pos:12|possessor:0|tag:PRO|token:quem|type:R|
+convidou	gender:0|lemma:convidar|mode:0|number:0|person:0|pos:13|tag:VERB|tense:0|token:convidou|type:0|
+para	lemma:para|pos:14|tag:PRP|token:para|type:0|
+um	gender:0|lemma:um|number:0|person:0|pos:15|possessor:0|tag:DT|token:um|type:0|
+encontro	gender:0|lemma:encontro|number:0|person:3|pos:16|tag:NOUN|token:encontro|type:C|
+científico	degree:0|function:0|gender:0|lemma:científico|number:0|pos:17|tag:ADJ|token:científico|type:0|
+promovido	gender:0|lemma:promover|mode:0|number:0|person:0|pos:18|tag:VERB|tense:0|token:promovido|type:0|
+por	lemma:por|pos:19|tag:PRP|token:por|type:0|
+Antinori	gender:0|lemma:Antinori|number:0|person:3|pos:20|tag:NOUN|token:Antinori|type:P|
+.	lemma:.|pos:21|tag:SENT|token:.|
+
+----------------------------------------------------------------------------
+
+Nenhum filme brasileiro foi escolhido, quebrando assim a expectativa criada em torno de "Alma Corsária" de Carlos Reichenbach e "Mil e Uma" de Suzana de Moraes.
+
+Nenhumprdegree:0|function:0|gender:0|lemma:nenhum|number:0|pos:0|tag:ADJ|token:Nenhum|type:0|
+filme	gender:0|lemma:filme|number:0|person:3|pos:1|tag:NOUN|token:filme|type:C|
+brasileiro	degree:0|function:0|gender:0|lemma:brasileiro|number:0|pos:2|tag:ADJ|token:brasileiro|type:0|
+foi	gender:0|lemma:ir|mode:0|number:0|person:0|pos:3|tag:VERB|tense:0|token:foi|type:0|
+escolhido	gender:0|lemma:escolher|mode:0|number:0|person:0|pos:4|subj:yes|tag:VERB|tense:0|token:escolhido|type:0|
+,	lemma:,|pos:5|tag:Fc|token:,|
+quebrando	gender:0|lemma:quebrar|mode:G|number:0|person:0|pos:6|tag:VERB|tense:0|token:quebrando|type:0|
+assim	lemma:assim|pos:7|tag:ADV|token:assim|type:0|
+a	gender:0|lemma:a|number:0|person:0|pos:8|possessor:0|tag:DT|token:a|type:0|
+expectativa	gender:0|lemma:expectativa|number:0|person:3|pos:9|tag:NOUN|token:expectativa|type:C|
+criada	gender:0|lemma:criar|mode:G|number:0|person:0|pos:10|tag:VERB|tense:0|token:criada|type:0|
+em	lemma:em|pos:11|tag:PRP|token:em|type:0|
+torno	gender:0|lemma:torno|number:0|person:3|pos:12|tag:NOUN|token:torno|type:C|
+de	lemma:de|pos:13|tag:PRP|token:de|type:0|
+"	lemma:"|pos:14|tag:Fe|token:"|
+Alma	gender:0|lemma:alma|number:0|person:3|pos:15|tag:NOUN|token:Alma|type:C|
+Corsária"&de&Carlos&Reichenbach	gender:0|lemma:Corsária"&de&Carlos&Reichenbach|number:0|person:3|pos:16|tag:NOUN|token:Corsária"&de&Carlos&Reichenbach|type:P|
+e	coord:noun|lemma:e|pos:17|tag:CONJ|token:e|type:0|
+"	lemma:"|pos:18|tag:Fe|token:"|
+Mil	gender:0|lemma:mil|number:0|person:3|pos:19|tag:NOUN|token:Mil|type:C|
+e	lemma:e|pos:20|tag:CONJ|token:e|type:0|
+Uma"&de&Suzana&de&Moraes	gender:0|lemma:Uma"&de&Suzana&de&Moraes|number:0|person:3|pos:21|tag:NOUN|token:Uma"&de&Suzana&de&Moraes|type:P|
+.	lemma:.|pos:22|tag:SENT|token:.|
+
+----------------------------------------------------------------------------
+
+Na terceira colocação, 34 pontos, a Juventus de Turim visita o Genoa, 22, no limiar do rebaixamento.
+
+Na- - prlemma:em|pos:0|tag:PRP|token:Na|type:0|
+terceira	gender:0|lemma:terceiro|number:P|person:0|pos:1|tag:CARD|token:terceira|
+colocação	gender:0|lemma:colocação|number:0|person:3|pos:2|tag:NOUN|token:colocação|type:C|
+,	lemma:,|pos:3|tag:Fc|token:,|
+34	gender:0|lemma:@card@|number:P|person:0|pos:4|tag:CARD|token:34|
+pontos	gender:0|lemma:ponto|number:0|person:3|pos:5|tag:NOUN|token:pontos|type:C|
+,	lemma:,|pos:6|tag:Fc|token:,|
+a	gender:0|lemma:a|number:0|person:0|pos:7|possessor:0|tag:DT|token:a|type:0|
+Juventus&de&Turim	gender:0|lemma:Juventus&de&Turim|number:0|person:3|pos:8|tag:NOUN|token:Juventus&de&Turim|type:P|
+visita	gender:0|lemma:visitar|mode:0|number:0|person:0|pos:9|subj:yes|tag:VERB|tense:0|token:visita|type:0|
+o	gender:0|lemma:o|number:0|person:0|pos:10|possessor:0|tag:DT|token:o|type:0|
+Genoa	gender:0|lemma:Genoa|number:0|person:3|pos:11|tag:NOUN|token:Genoa|type:P|
+,	lemma:,|pos:12|tag:Fc|token:,|
+22	gender:0|lemma:@card@|number:P|person:0|pos:13|tag:CARD|token:22|
+,	lemma:,|pos:14|tag:Fc|token:,|
+no	lemma:em|pos:15|tag:PRP|token:no|type:0|
+limiar	gender:0|lemma:limiar|number:0|person:3|pos:16|tag:NOUN|token:limiar|type:C|
+do	lemma:de|pos:17|tag:PRP|token:do|type:0|
+rebaixamento	gender:0|lemma:rebaixamento|number:0|person:3|pos:18|tag:NOUN|token:rebaixamento|type:C|
+.	lemma:.|pos:19|tag:SENT|token:.|
+
+----------------------------------------------------------------------------
+
+O projeto vem sendo implementado, em caráter experimental, em três escolas: Morumbi, Visconde de Porto Seguro (particulares) e Godofredo Furtado (estadual).
+
+O - - prgender:0|lemma:o|number:0|person:0|pos:0|possessor:0|tag:DT|token:O|type:0|
+projeto	gender:0|lemma:projeto|number:0|person:3|pos:1|tag:NOUN|token:projeto|type:C|
+vem	gender:0|lemma:vir|mode:0|number:0|person:0|pos:2|tag:VERB|tense:0|token:vem|type:0|
+sendo	gender:0|lemma:ser|mode:G|number:0|person:0|pos:3|tag:VERB|tense:0|token:sendo|type:S|
+implementado	gender:0|lemma:implementar|mode:0|number:0|person:0|pos:4|subj:yes|tag:VERB|tense:0|token:implementado|type:0|voice:passive|
+,	lemma:,|pos:5|tag:Fc|token:,|
+em	lemma:em|pos:6|tag:PRP|token:em|type:0|
+caráter	gender:0|lemma:caráter|number:0|person:3|pos:7|tag:NOUN|token:caráter|type:C|
+experimental	degree:0|function:0|gender:0|lemma:experimental|number:0|pos:8|tag:ADJ|token:experimental|type:0|
+,	lemma:,|pos:9|tag:Fc|token:,|
+em	lemma:em|pos:10|tag:PRP|token:em|type:0|
+três	gender:0|lemma:três|number:P|person:0|pos:11|tag:CARD|token:três|
+escolas	gender:0|lemma:escola|number:0|person:3|pos:12|tag:NOUN|token:escolas|type:C|
+:	lemma:\:|pos:13|tag:Fd|token:\:|
+Morumbi	gender:0|lemma:morumbi|number:0|person:3|pos:14|tag:NOUN|token:Morumbi|type:C|
+,	lemma:,|pos:15|tag:Fc|token:,|
+Visconde&de&Porto&Seguro	gender:0|lemma:Visconde&de&Porto&Seguro|mode:0|number:0|person:0|pos:16|tag:VERB|tense:0|token:Visconde&de&Porto&Seguro|type:0|
+(	lemma:(|pos:17|tag:Fpa|token:(|
+particulares	degree:0|function:0|gender:0|lemma:particular|number:0|pos:18|tag:ADJ|token:particulares|type:0|
+)	lemma:)|pos:19|tag:Fpt|token:)|
+e	lemma:e|pos:20|tag:CONJ|token:e|type:0|
+Godofredo&Furtado	gender:0|lemma:Godofredo&Furtado|mode:P|number:0|person:0|pos:21|tag:VERB|tense:0|token:Godofredo&Furtado|type:0|
+(	lemma:(|pos:22|tag:Fpa|token:(|
+estadual	degree:0|function:0|gender:0|lemma:estadual|number:0|pos:23|tag:ADJ|token:estadual|type:0|
+)	lemma:)|pos:24|tag:Fpt|token:)|
+.	lemma:.|pos:25|tag:SENT|token:.|
+
+----------------------------------------------------------------------------
+
+O cineasta italiano Franco Zefirelli revelou que, para iludir o serviço militar durante o período fascista, se tornou um partisan e acabou matando um soldado alemão.
+
+O - - prgender:0|lemma:o|number:0|person:0|pos:0|possessor:0|tag:DT|token:O|type:0|
+cineasta	gender:0|lemma:cineasta|number:0|person:3|pos:1|tag:NOUN|token:cineasta|type:C|
+italiano	degree:0|function:0|gender:0|lemma:italiano|number:0|pos:2|tag:ADJ|token:italiano|type:0|
+Franco&Zefirelli	gender:0|lemma:Franco&Zefirelli|number:0|person:3|pos:3|tag:NOUN|token:Franco&Zefirelli|type:P|
+revelou	gender:0|lemma:revelar|mode:0|number:0|person:0|pos:4|subj:yes|tag:VERB|tense:0|token:revelou|type:0|
+que	lemma:que|pos:5|tag:CONJ|token:que|type:S|
+,	lemma:,|pos:6|tag:Fc|token:,|
+para	lemma:para|pos:7|tag:PRP|token:para|type:0|
+iludir	gender:0|lemma:iludir|mode:N|number:0|person:0|pos:8|tag:VERB|tense:0|token:iludir|type:0|
+o	gender:0|lemma:o|number:0|person:0|pos:9|possessor:0|tag:DT|token:o|type:0|
+serviço	gender:0|lemma:serviço|number:0|person:3|pos:10|tag:NOUN|token:serviço|type:C|
+militar	degree:0|function:0|gender:0|lemma:militar|number:0|pos:11|tag:ADJ|token:militar|type:0|
+durante	lemma:durante|pos:12|tag:PRP|token:durante|type:0|
+o	gender:0|lemma:o|number:0|person:0|pos:13|possessor:0|tag:DT|token:o|type:0|
+período	gender:0|lemma:período|number:0|person:3|pos:14|tag:NOUN|token:período|type:C|
+fascista	degree:0|function:0|gender:0|lemma:fascista|number:0|pos:15|tag:ADJ|token:fascista|type:0|
+,	lemma:,|pos:16|tag:Fc|token:,|
+se	case:0|gender:0|lemma:se|number:0|person:0|politeness:0|pos:17|possessor:0|tag:PRO|token:se|type:R|
+tornou	gender:0|lemma:tornar|mode:0|number:0|person:0|pos:18|tag:VERB|tense:0|token:tornou|type:0|
+um	gender:0|lemma:um|number:0|person:0|pos:19|possessor:0|tag:DT|token:um|type:0|
+partisan	gender:0|lemma:partisan|number:0|person:3|pos:20|tag:NOUN|token:partisan|type:C|
+e	coord:verb|lemma:e|mode:0|pos:21|tag:CONJ|tense:0|token:e|type:0|
+acabou	gender:0|lemma:acabar|mode:0|number:0|person:0|pos:22|tag:VERB|tense:0|token:acabou|type:0|
+matando	gender:0|lemma:matar|mode:0|number:0|person:0|pos:23|tag:VERB|tense:0|token:matando|type:0|
+um	gender:0|lemma:um|number:0|person:0|pos:24|possessor:0|tag:DT|token:um|type:0|
+soldado	gender:0|lemma:soldado|number:0|person:3|pos:25|tag:NOUN|token:soldado|type:C|
+alemão	degree:0|function:0|gender:0|lemma:alemão|number:0|pos:26|tag:ADJ|token:alemão|type:0|
+.	lemma:.|pos:27|tag:SENT|token:.|
+
+----------------------------------------------------------------------------
+
+Mas é também preciso a sociedade mobilizar-se para sensibilizar o futuro Congresso Nacional na promoção de reformas constitucionais indispensáveis ao êxito das mudanças pretendidas.
+
+Mas - prlemma:mas|pos:0|tag:CONJ|token:Mas|type:0|
+é	gender:0|lemma:ser|mode:0|number:0|person:0|pos:1|tag:VERB|tense:0|token:é|type:S|
+também	lemma:também|pos:2|tag:ADV|token:também|type:0|
+preciso	degree:0|function:0|gender:0|lemma:preciso|number:0|pos:3|tag:ADJ|token:preciso|type:0|
+a	gender:0|lemma:a|number:0|person:0|pos:4|possessor:0|tag:DT|token:a|type:0|
+sociedade	gender:0|lemma:sociedade|number:0|person:3|pos:5|tag:NOUN|token:sociedade|type:C|
+mobilizar-se	gender:0|lemma:mobilizar|mode:0|number:0|person:0|pos:6|subj:yes|tag:VERB|tense:0|token:mobilizar-se|type:0|
+para	lemma:para|pos:7|tag:PRP|token:para|type:0|
+sensibilizar	gender:0|lemma:sensibilizar|mode:N|number:0|person:0|pos:8|tag:VERB|tense:0|token:sensibilizar|type:0|
+o	gender:0|lemma:o|number:0|person:0|pos:9|possessor:0|tag:DT|token:o|type:0|
+futuro	degree:0|function:0|gender:0|lemma:futuro|number:0|pos:10|tag:ADJ|token:futuro|type:0|
+Congresso&Nacional	gender:0|lemma:Congresso&Nacional|number:0|person:3|pos:11|tag:NOUN|token:Congresso&Nacional|type:P|
+na	lemma:em|pos:12|tag:PRP|token:na|type:0|
+promoção	gender:0|lemma:promoção|number:0|person:3|pos:13|tag:NOUN|token:promoção|type:C|
+de	lemma:de|pos:14|tag:PRP|token:de|type:0|
+reformas	gender:0|lemma:reforma|number:0|person:3|pos:15|tag:NOUN|token:reformas|type:C|
+constitucionais	degree:0|function:0|gender:0|lemma:constitucional|number:0|pos:16|tag:ADJ|token:constitucionais|type:0|
+indispensáveis	gender:0|lemma:indispensável|number:0|person:3|pos:17|tag:NOUN|token:indispensáveis|type:C|
+ao	lemma:a|pos:18|tag:PRP|token:ao|type:0|
+êxito	gender:0|lemma:êxito|number:0|person:3|pos:19|tag:NOUN|token:êxito|type:P|
+das	lemma:de|pos:20|tag:PRP|token:das|type:0|
+mudanças	gender:0|lemma:mudança|number:0|person:3|pos:21|tag:NOUN|token:mudanças|type:C|
+pretendidas	gender:0|lemma:pretender|mode:0|number:0|person:0|pos:22|tag:VERB|tense:0|token:pretendidas|type:0|
+.	lemma:.|pos:23|tag:SENT|token:.|
+
+----------------------------------------------------------------------------
+
+Na Anhanguera, que une São Paulo a Ribeirão Preto, costuma haver neblina pesada entre o km 21 e o km 43, também perto de Perus e Cajamar.
+
+Na- - prlemma:em|pos:0|tag:PRP|token:Na|type:0|
+Anhanguera	gender:0|lemma:anhanguera|number:0|person:3|pos:1|tag:NOUN|token:Anhanguera|type:C|
+,	lemma:,|pos:2|tag:Fc|token:,|
+que	case:0|gender:0|lemma:que|number:0|person:0|politeness:0|pos:3|possessor:0|tag:PRO|token:que|type:R|
+une	gender:0|lemma:unir|mode:0|number:0|person:0|pos:4|tag:VERB|tense:0|token:une|type:0|
+São&Paulo	gender:0|lemma:São&Paulo|number:0|person:3|pos:5|tag:NOUN|token:São&Paulo|type:P|
+a	lemma:a|pos:6|tag:PRP|token:a|type:0|
+Ribeirão&Preto	gender:0|lemma:Ribeirão&Preto|number:0|person:3|pos:7|tag:NOUN|token:Ribeirão&Preto|type:P|
+,	lemma:,|pos:8|tag:Fc|token:,|
+costuma	gender:0|lemma:costumar|mode:0|number:0|person:0|pos:9|tag:VERB|tense:0|token:costuma|type:0|
+haver	gender:0|lemma:haver|mode:0|number:0|person:0|pos:10|tag:VERB|tense:0|token:haver|type:A|
+neblina	gender:0|lemma:neblina|number:0|person:3|pos:11|tag:NOUN|token:neblina|type:C|
+pesada	degree:0|function:0|gender:0|lemma:pesado|number:0|pos:12|tag:ADJ|token:pesada|type:0|
+entre	lemma:entre|pos:13|tag:PRP|token:entre|type:0|
+o	gender:0|lemma:o|number:0|person:0|pos:14|possessor:0|tag:DT|token:o|type:0|
+km	lemma:km|pos:15|tag:B|token:km|
+21	gender:0|lemma:@card@|number:P|person:0|pos:16|tag:CARD|token:21|
+e	lemma:e|pos:17|tag:CONJ|token:e|type:0|
+o	gender:0|lemma:o|number:0|person:0|pos:18|possessor:0|tag:DT|token:o|type:0|
+km	lemma:km|pos:19|tag:B|token:km|
+43	gender:0|lemma:@card@|number:P|person:0|pos:20|tag:CARD|token:43|
+,	lemma:,|pos:21|tag:Fc|token:,|
+também	lemma:também|pos:22|tag:ADV|token:também|type:0|
+perto	lemma:perto|pos:23|tag:ADV|token:perto|type:0|
+de	lemma:de|pos:24|tag:PRP|token:de|type:0|
+Perus	gender:0|lemma:peru|number:0|person:3|pos:25|tag:NOUN|token:Perus|type:C|
+e	coord:noun|lemma:e|pos:26|tag:CONJ|token:e|type:0|
+Cajamar	gender:0|lemma:Cajamar|number:0|person:3|pos:27|tag:NOUN|token:Cajamar|type:P|
+.	lemma:.|pos:28|tag:SENT|token:.|
+
+----------------------------------------------------------------------------
+
+Mesmo entendendo suas explicações sobre o programa de governo, entendo que ele tinha que ter um programa de governo, que vai dar um meio de cobrar depois.
+
+Mesmo prlemma:mesmo|pos:0|tag:ADV|token:Mesmo|type:0|
+entendendo	gender:0|lemma:entender|mode:G|number:0|person:0|pos:1|tag:VERB|tense:0|token:entendendo|type:0|
+suas	degree:0|function:0|gender:0|lemma:sua|number:0|pos:2|tag:ADJ|token:suas|type:0|
+explicações	gender:0|lemma:explicação|number:0|person:3|pos:3|tag:NOUN|token:explicações|type:C|
+sobre	lemma:sobre|pos:4|tag:PRP|token:sobre|type:0|
+o	gender:0|lemma:o|number:0|person:0|pos:5|possessor:0|tag:DT|token:o|type:0|
+programa	gender:0|lemma:programa|number:0|person:3|pos:6|tag:NOUN|token:programa|type:C|
+de	lemma:de|pos:7|tag:PRP|token:de|type:0|
+governo	gender:0|lemma:governo|number:0|person:3|pos:8|tag:NOUN|token:governo|type:C|
+,	lemma:,|pos:9|tag:Fc|token:,|
+entendo	gender:0|lemma:entender|mode:G|number:0|person:0|pos:10|tag:VERB|tense:0|token:entendo|type:0|
+que	lemma:que|pos:11|tag:CONJ|token:que|type:S|
+ele	case:0|gender:0|lemma:ele|number:0|person:0|politeness:0|pos:12|possessor:0|tag:PRO|token:ele|type:R|
+tinha	gender:0|lemma:ter|mode:0|number:0|person:0|pos:13|tag:VERB|tense:0|token:tinha|type:0|
+que	lemma:que|pos:14|tag:CONJ|token:que|type:S|
+ter	gender:0|lemma:ter|mode:0|number:0|person:0|pos:15|tag:VERB|tense:0|token:ter|type:0|
+um	gender:0|lemma:um|number:0|person:0|pos:16|possessor:0|tag:DT|token:um|type:0|
+programa	gender:0|lemma:programa|number:0|person:3|pos:17|tag:NOUN|token:programa|type:C|
+de	lemma:de|pos:18|tag:PRP|token:de|type:0|
+governo	gender:0|lemma:governo|number:0|person:3|pos:19|tag:NOUN|token:governo|type:C|
+,	lemma:,|pos:20|tag:Fc|token:,|
+que	case:0|gender:0|lemma:que|number:0|person:0|politeness:0|pos:21|possessor:0|tag:PRO|token:que|type:R|
+vai	gender:0|lemma:ir|mode:0|number:0|person:0|pos:22|tag:VERB|tense:0|token:vai|type:0|
+dar	gender:0|lemma:dar|mode:0|number:0|person:0|pos:23|tag:VERB|tense:0|token:dar|type:0|
+um	gender:0|lemma:um|number:0|person:0|pos:24|possessor:0|tag:DT|token:um|type:0|
+meio	gender:0|lemma:meio|number:0|person:3|pos:25|tag:NOUN|token:meio|type:C|
+de	lemma:de|pos:26|tag:PRP|token:de|type:0|
+cobrar	gender:0|lemma:cobrar|mode:N|number:0|person:0|pos:27|tag:VERB|tense:0|token:cobrar|type:0|
+depois	lemma:depois|pos:28|tag:ADV|token:depois|type:0|
+.	lemma:.|pos:29|tag:SENT|token:.|
+
+----------------------------------------------------------------------------
+
+O mais perigoso é na região da Serra das Conchas, entre o km 129 e o km 162, logo após Tatuí, para quem vai para o interior.
+
+O - - prgender:0|lemma:o|number:0|person:0|pos:0|possessor:0|tag:DT|token:O|type:0|
+mais	lemma:mais|pos:1|tag:ADV|token:mais|type:0|
+perigoso	degree:0|function:0|gender:0|lemma:perigoso|number:0|pos:2|tag:ADJ|token:perigoso|type:0|
+é	gender:0|lemma:ser|mode:0|number:0|person:0|pos:3|tag:VERB|tense:0|token:é|type:S|
+na	lemma:em|pos:4|tag:PRP|token:na|type:0|
+região	gender:0|lemma:região|number:0|person:3|pos:5|tag:NOUN|token:região|type:C|
+da	lemma:de|pos:6|tag:PRP|token:da|type:0|
+Serra&das&Conchas	gender:0|lemma:Serra&das&Conchas|number:0|person:3|pos:7|tag:NOUN|token:Serra&das&Conchas|type:P|
+,	lemma:,|pos:8|tag:Fc|token:,|
+entre	lemma:entre|pos:9|tag:PRP|token:entre|type:0|
+o	gender:0|lemma:o|number:0|person:0|pos:10|possessor:0|tag:DT|token:o|type:0|
+km	lemma:km|pos:11|tag:B|token:km|
+129	gender:0|lemma:@card@|number:P|person:0|pos:12|tag:CARD|token:129|
+e	lemma:e|pos:13|tag:CONJ|token:e|type:0|
+o	gender:0|lemma:o|number:0|person:0|pos:14|possessor:0|tag:DT|token:o|type:0|
+km	lemma:km|pos:15|tag:B|token:km|
+162	gender:0|lemma:@card@|number:P|person:0|pos:16|tag:CARD|token:162|
+,	lemma:,|pos:17|tag:Fc|token:,|
+logo	lemma:logo|pos:18|tag:ADV|token:logo|type:0|
+após	lemma:após|pos:19|tag:PRP|token:após|type:0|
+Tatuí	gender:0|lemma:Tatuí|number:0|person:3|pos:20|tag:NOUN|token:Tatuí|type:P|
+,	lemma:,|pos:21|tag:Fc|token:,|
+para	lemma:para|pos:22|tag:PRP|token:para|type:0|
+quem	case:0|gender:0|lemma:quem|number:0|person:0|politeness:0|pos:23|possessor:0|tag:PRO|token:quem|type:R|
+vai	gender:0|lemma:ir|mode:0|number:0|person:0|pos:24|tag:VERB|tense:0|token:vai|type:0|
+para	lemma:para|pos:25|tag:PRP|token:para|type:0|
+o	gender:0|lemma:o|number:0|person:0|pos:26|possessor:0|tag:DT|token:o|type:0|
+interior	gender:0|lemma:interior|number:0|person:3|pos:27|tag:NOUN|token:interior|type:C|
+.	lemma:.|pos:28|tag:SENT|token:.|
+
+----------------------------------------------------------------------------
+
+O prefeito de Juazeiro, Manoel Salviano (PSDB), disse que qualquer funcionário que tenha participado da recepção "foi espontaneamente, sem nenhuma pressão da prefeitura".
+
+O - - prgender:0|lemma:o|number:0|person:0|pos:0|possessor:0|tag:DT|token:O|type:0|
+prefeito	gender:0|lemma:prefeito|number:0|person:3|pos:1|tag:NOUN|token:prefeito|type:C|
+de	lemma:de|pos:2|tag:PRP|token:de|type:0|
+Juazeiro	gender:0|lemma:juazeiro|number:0|person:3|pos:3|tag:NOUN|token:Juazeiro|type:C|
+,	lemma:,|pos:4|tag:Fc|token:,|
+Manoel&Salviano	gender:0|lemma:Manoel&Salviano|mode:0|number:0|person:0|pos:5|tag:VERB|tense:0|token:Manoel&Salviano|type:0|
+(	lemma:(|pos:6|tag:Fpa|token:(|
+PSDB	gender:0|lemma:PSDB|mode:0|number:0|person:0|pos:7|tag:VERB|tense:0|token:PSDB|type:0|
+)	lemma:)|pos:8|tag:Fpt|token:)|
+,	lemma:,|pos:9|tag:Fc|token:,|
+disse	gender:0|lemma:dizer|mode:0|number:0|person:0|pos:10|tag:VERB|tense:0|token:disse|type:0|
+que	lemma:que|pos:11|tag:CONJ|token:que|type:S|
+qualquer	degree:0|function:0|gender:0|lemma:qualquer|number:0|pos:12|tag:ADJ|token:qualquer|type:0|
+funcionário	gender:0|lemma:funcionário|number:0|person:3|pos:13|tag:NOUN|token:funcionário|type:C|
+que	case:0|gender:0|lemma:que|number:0|person:0|politeness:0|pos:14|possessor:0|tag:PRO|token:que|type:R|
+tenha	gender:0|lemma:ter|mode:0|number:0|person:0|pos:15|tag:VERB|tense:0|token:tenha|type:0|
+participado	gender:0|lemma:participar|mode:0|number:0|person:0|pos:16|tag:VERB|tense:0|token:participado|type:perfect|
+da	lemma:de|pos:17|tag:PRP|token:da|type:0|
+recepção	gender:0|lemma:recepção|number:0|person:3|pos:18|tag:NOUN|token:recepção|type:C|
+"	lemma:"|pos:19|tag:Fe|token:"|
+foi	gender:0|lemma:ir|mode:0|number:0|person:0|pos:20|tag:VERB|tense:0|token:foi|type:0|
+espontaneamente	lemma:espontaneamente|pos:21|tag:ADV|token:espontaneamente|type:0|
+,	lemma:,|pos:22|tag:Fc|token:,|
+sem	lemma:sem|pos:23|tag:PRP|token:sem|type:0|
+nenhuma	degree:0|function:0|gender:0|lemma:nenhum|number:0|pos:24|tag:ADJ|token:nenhuma|type:0|
+pressão	gender:0|lemma:pressão|number:0|person:3|pos:25|tag:NOUN|token:pressão|type:C|
+da	lemma:de|pos:26|tag:PRP|token:da|type:0|
+prefeitura	gender:0|lemma:prefeitura|number:0|person:3|pos:27|tag:NOUN|token:prefeitura|type:C|
+"	lemma:"|pos:28|tag:Fe|token:"|
+.	lemma:.|pos:29|tag:SENT|token:.|
