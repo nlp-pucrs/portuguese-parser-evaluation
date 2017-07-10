@@ -1,0 +1,310 @@
+Nessa época, Fishel teria conhecido o ginecologista britânico Robert Winston, a quem convidou para um encontro científico promovido por Antinori.
+
+1  Em             em             SP      SP  pos=adposition|type=preposition                                            
+2  essa           esse           DD0FS0  DD  pos=determiner|type=demonstrative|gen=feminine|num=singular                
+3  época          época          NCFS000 NC  pos=noun|type=common|gen=feminine|num=singular                             
+4  ,              ,              Fc      Fc  pos=punctuation|type=comma                                                 
+5  Fishel         fishel         NP00000 NP  pos=noun|type=proper                                                       
+6  teria          ter            VMIC3S0 VMI pos=verb|type=main|mood=indicative|tense=conditional|person=3|num=singular 
+7  conhecido      conhecer       VMP00SM VMP pos=verb|type=main|mood=pastparticiple|num=singular|gen=masculine          
+8  o              o              DA0MS0  DA  pos=determiner|type=article|gen=masculine|num=singular                     
+9  ginecologista  ginecologista  NCCS000 NC  pos=noun|type=common|gen=common|num=singular                               
+10 britânico      britânico      AQ0MS00 AQ  pos=adjective|type=qualificative|gen=masculine|num=singular                
+11 Robert_Winston robert_winston NP00000 NP  pos=noun|type=proper                                                       
+12 ,              ,              Fc      Fc  pos=punctuation|type=comma                                                 
+13 a              o              DA0FS0  DA  pos=determiner|type=article|gen=feminine|num=singular                      
+14 quem           quem           PT0CN00 PT  pos=pronoun|type=interrogative|gen=common|num=invariable                   
+15 convidou       convidar       VMIS3S0 VMI pos=verb|type=main|mood=indicative|tense=past|person=3|num=singular        
+16 para           para           SP      SP  pos=adposition|type=preposition                                            
+17 um             um             DI0MS0  DI  pos=determiner|type=indefinite|gen=masculine|num=singular                  
+18 encontro       encontro       NCMS000 NC  pos=noun|type=common|gen=masculine|num=singular                            
+19 científico     científico     AQ0MS00 AQ  pos=adjective|type=qualificative|gen=masculine|num=singular                
+20 promovido      promover       VMP00SM VMP pos=verb|type=main|mood=pastparticiple|num=singular|gen=masculine          
+21 por            por            SP      SP  pos=adposition|type=preposition                                            
+22 Antinori       antinori       NP00000 NP  pos=noun|type=proper                                                       
+23 .              .              Fp      Fp  pos=punctuation|type=period
+
+
+Nenhum filme brasileiro foi escolhido, quebrando assim a expectativa criada em torno de «Alma Corsária» de Carlos Reichenbach e «Mil e Uma» de Suzana de Moraes.
+
+1  Nenhum             nenhum             DI0MS0  DI  pos=determiner|type=indefinite|gen=masculine|num=singular           - - - - - - -
+2  filme              filme              NCMS000 NC  pos=noun|type=common|gen=masculine|num=singular                     - - - - - - -
+3  brasileiro         brasileiro         AQ0MS00 AQ  pos=adjective|type=qualificative|gen=masculine|num=singular         - - - - - - -
+4  foi                ir                 VMIS3S0 VMI pos=verb|type=main|mood=indicative|tense=past|person=3|num=singular - - - - - - -
+5  escolhido          escolher           VMP00SM VMP pos=verb|type=main|mood=pastparticiple|num=singular|gen=masculine   - - - - - - -
+6  ,                  ,                  Fc      Fc  pos=punctuation|type=comma                                          - - - - - - -
+7  quebrando          quebrar            VMG0000 VMG pos=verb|type=main|mood=gerund                                      - - - - - - -
+8  assim              assim              RG      RG  pos=adverb|type=general                                             - - - - - - -
+9  a                  o                  DA0FS0  DA  pos=determiner|type=article|gen=feminine|num=singular               - - - - - - -
+10 expectativa        expectativa        NCFS000 NC  pos=noun|type=common|gen=feminine|num=singular                      - - - - - - -
+11 criada             criar              VMP00SF VMP pos=verb|type=main|mood=pastparticiple|num=singular|gen=feminine    - - - - - - -
+12 em_torno_de        em_torno_de        SP      SP  pos=adposition|type=preposition                                     - - - - - - -
+13 «                  «                  Fra     Fra pos=punctuation|type=quotation|punctenclose=open                    - - - - - - -
+14 Alma_Corsária      alma_corsária      NP00000 NP  pos=noun|type=proper                                                - - - - - - -
+15 »                  »                  Frc     Frc pos=punctuation|type=quotation|punctenclose=close                   - - - - - - -
+16 de                 de                 SP      SP  pos=adposition|type=preposition                                     - - - - - - -
+17 Carlos_Reichenbach carlos_reichenbach NP00000 NP  pos=noun|type=proper                                                - - - - - - -
+18 e                  e                  CC      CC  pos=conjunction|type=coordinating                                   - - - - - - -
+19 «                  «                  Fra     Fra pos=punctuation|type=quotation|punctenclose=open                    - - - - - - -
+20 Mil_e_Uma          1001               Z       Z   pos=number                                                          - - - - - - -
+21 »                  »                  Frc     Frc pos=punctuation|type=quotation|punctenclose=close                   - - - - - - -
+22 de                 de                 SP      SP  pos=adposition|type=preposition                                     - - - - - - -
+23 Suzana_de_Moraes   suzana_de_moraes   NP00000 NP  pos=noun|type=proper                                                - - - - - - -
+24 .                  .                  Fp      Fp  pos=punctuation|type=period                                         - - - - - - -
+
+
+Na terceira colocação, 34 pontos, a Juventus de Turim visita o Genoa, 22, no limiar do rebaixamento. 
+
+1  Em                em                SP      SP pos=adposition|type=preposition                        - - - - - - -
+2  a                 o                 DA0FS0  DA pos=determiner|type=article|gen=feminine|num=singular  - - - - - - -
+3  terceira          terceiro          AO0FS00 AO pos=adjective|type=ordinal|gen=feminine|num=singular   - - - - - - -
+4  colocação         colocação         NCFS000 NC pos=noun|type=common|gen=feminine|num=singular         - - - - - - -
+5  ,                 ,                 Fc      Fc pos=punctuation|type=comma                             - - - - - - -
+6  34                34                Z       Z  pos=number                                             - - - - - - -
+7  pontos            ponto             NCMP000 NC pos=noun|type=common|gen=masculine|num=plural          - - - - - - -
+8  ,                 ,                 Fc      Fc pos=punctuation|type=comma                             - - - - - - -
+9  a                 o                 DA0FS0  DA pos=determiner|type=article|gen=feminine|num=singular  - - - - - - -
+10 Juventus_de_Turim juventus_de_turim NP00000 NP pos=noun|type=proper                                   - - - - - - -
+11 visita            visita            NCFS000 NC pos=noun|type=common|gen=feminine|num=singular         - - - - - - -
+12 o                 o                 DA0MS0  DA pos=determiner|type=article|gen=masculine|num=singular - - - - - - -
+13 Genoa             genoa             NP00000 NP pos=noun|type=proper                                   - - - - - - -
+14 ,                 ,                 Fc      Fc pos=punctuation|type=comma                             - - - - - - -
+15 22                22                Z       Z  pos=number                                             - - - - - - -
+16 ,                 ,                 Fc      Fc pos=punctuation|type=comma                             - - - - - - -
+17 em                em                SP      SP pos=adposition|type=preposition                        - - - - - - -
+18 o                 o                 DA0MS0  DA pos=determiner|type=article|gen=masculine|num=singular - - - - - - -
+19 limiar            limiar            NCCS000 NC pos=noun|type=common|gen=common|num=singular           - - - - - - -
+20 de                de                SP      SP pos=adposition|type=preposition                        - - - - - - -
+21 o                 o                 DA0MS0  DA pos=determiner|type=article|gen=masculine|num=singular - - - - - - -
+22 rebaixamento      rebaixamento      NCMS000 NC pos=noun|type=common|gen=masculine|num=singular        - - - - - - -
+23 .                 .                 Fp      Fp pos=punctuation|type=period                            - - - - - - -
+
+
+O projeto vem sendo implementado, em caráter experimental, em três escolas: Morumbi, Visconde de Porto Seguro (particulares) e Godofredo Furtado (estadual). 
+
+1  O                        o                        DA0MS0  DA  pos=determiner|type=article|gen=masculine|num=singular                 - - - - - - -
+2  projeto                  projeto                  NCMS000 NC  pos=noun|type=common|gen=masculine|num=singular                        - - - - - - -
+3  vem                      vir                      VMIP3S0 VMI pos=verb|type=main|mood=indicative|tense=present|person=3|num=singular - - - - - - -
+4  sendo                    ser                      VMG0000 VMG pos=verb|type=main|mood=gerund                                         - - - - - - -
+5  implementado             implementar              VMP00SM VMP pos=verb|type=main|mood=pastparticiple|num=singular|gen=masculine      - - - - - - -
+6  ,                        ,                        Fc      Fc  pos=punctuation|type=comma                                             - - - - - - -
+7  em                       em                       SP      SP  pos=adposition|type=preposition                                        - - - - - - -
+8  caráter                  caráter                  NCMS000 NC  pos=noun|type=common|gen=masculine|num=singular                        - - - - - - -
+9  experimental             experimental             AQ0CS00 AQ  pos=adjective|type=qualificative|gen=common|num=singular               - - - - - - -
+10 ,                        ,                        Fc      Fc  pos=punctuation|type=comma                                             - - - - - - -
+11 em                       em                       SP      SP  pos=adposition|type=preposition                                        - - - - - - -
+12 três                     3                        Z       Z   pos=number                                                             - - - - - - -
+13 escolas                  escola                   NCFP000 NC  pos=noun|type=common|gen=feminine|num=plural                           - - - - - - -
+14 :                        :                        Fd      Fd  pos=punctuation|type=colon                                             - - - - - - -
+15 Morumbi                  morumbi                  NP00000 NP  pos=noun|type=proper                                                   - - - - - - -
+16 ,                        ,                        Fc      Fc  pos=punctuation|type=comma                                             - - - - - - -
+17 Visconde_de_Porto_Seguro visconde_de_porto_seguro NP00000 NP  pos=noun|type=proper                                                   - - - - - - -
+18 (                        (                        Fpa     Fpa pos=punctuation|type=parenthesis|punctenclose=open                     - - - - - - -
+19 particulares             particular               NCMP000 NC  pos=noun|type=common|gen=masculine|num=plural                          - - - - - - -
+20 )                        )                        Fpt     Fpt pos=punctuation|type=parenthesis|punctenclose=close                    - - - - - - -
+21 e                        e                        CC      CC  pos=conjunction|type=coordinating                                      - - - - - - -
+22 Godofredo_Furtado        godofredo_furtado        NP00000 NP  pos=noun|type=proper                                                   - - - - - - -
+23 (                        (                        Fpa     Fpa pos=punctuation|type=parenthesis|punctenclose=open                     - - - - - - -
+24 estadual                 estadual                 AQ0CS00 AQ  pos=adjective|type=qualificative|gen=common|num=singular               - - - - - - -
+25 )                        )                        Fpt     Fpt pos=punctuation|type=parenthesis|punctenclose=close                    - - - - - - -
+26 .                        .                        Fp      Fp  pos=punctuation|type=period                                            - - - - - - -
+
+
+O cineasta italiano Franco Zefirelli revelou que, para iludir o serviço militar durante o período fascista, se tornou um partisan e acabou matando um soldado alemão. 
+
+1  O                o                DA0MS0  DA  pos=determiner|type=article|gen=masculine|num=singular              - - - - - - -
+2  cineasta         cineasta         NCCS000 NC  pos=noun|type=common|gen=common|num=singular                        - - - - - - -
+3  italiano         italiano         AQ0MS00 AQ  pos=adjective|type=qualificative|gen=masculine|num=singular         - - - - - - -
+4  Franco_Zefirelli franco_zefirelli NP00000 NP  pos=noun|type=proper                                                - - - - - - -
+5  revelou          revelar          VMIS3S0 VMI pos=verb|type=main|mood=indicative|tense=past|person=3|num=singular - - - - - - -
+6  que              que              CS      CS  pos=conjunction|type=subordinating                                  - - - - - - -
+7  ,                ,                Fc      Fc  pos=punctuation|type=comma                                          - - - - - - -
+8  para             para             SP      SP  pos=adposition|type=preposition                                     - - - - - - -
+9  iludir           iludir           VMN0000 VMN pos=verb|type=main|mood=infinitive                                  - - - - - - -
+10 o                o                DA0MS0  DA  pos=determiner|type=article|gen=masculine|num=singular              - - - - - - -
+11 serviço          serviço          NCMS000 NC  pos=noun|type=common|gen=masculine|num=singular                     - - - - - - -
+12 militar          militar          AQ0CS00 AQ  pos=adjective|type=qualificative|gen=common|num=singular            - - - - - - -
+13 durante          durante          SP      SP  pos=adposition|type=preposition                                     - - - - - - -
+14 o                o                DA0MS0  DA  pos=determiner|type=article|gen=masculine|num=singular              - - - - - - -
+15 período          período          NCMS000 NC  pos=noun|type=common|gen=masculine|num=singular                     - - - - - - -
+16 fascista         fascista         AQ0CS00 AQ  pos=adjective|type=qualificative|gen=common|num=singular            - - - - - - -
+17 ,                ,                Fc      Fc  pos=punctuation|type=comma                                          - - - - - - -
+18 se               se               PP3CN00 PP  pos=pronoun|type=personal|person=3|gen=common|num=invariable        - - - - - - -
+19 tornou           tornar           VMIS3S0 VMI pos=verb|type=main|mood=indicative|tense=past|person=3|num=singular - - - - - - -
+20 um               um               DI0MS0  DI  pos=determiner|type=indefinite|gen=masculine|num=singular           - - - - - - -
+21 partisan         partisan         NCMS000 NC  pos=noun|type=common|gen=masculine|num=singular                     - - - - - - -
+22 e                e                CC      CC  pos=conjunction|type=coordinating                                   - - - - - - -
+23 acabou           acabar           VMIS3S0 VMI pos=verb|type=main|mood=indicative|tense=past|person=3|num=singular - - - - - - -
+24 matando          matar            VMG0000 VMG pos=verb|type=main|mood=gerund                                      - - - - - - -
+25 um               um               DI0MS0  DI  pos=determiner|type=indefinite|gen=masculine|num=singular           - - - - - - -
+26 soldado          soldado          NCMS000 NC  pos=noun|type=common|gen=masculine|num=singular                     - - - - - - -
+27 alemão           alemão           AQ0MS00 AQ  pos=adjective|type=qualificative|gen=masculine|num=singular         - - - - - - -
+28 .                .                Fp      Fp  pos=punctuation|type=period                                         - - - - - - -
+
+
+Mas é também preciso a sociedade mobilizar-se para sensibilizar o futuro Congresso Nacional na promoção de reformas constitucionais indispensáveis ao êxito das mudanças pretendidas. 
+
+1  Mas                mas                CC      CC  pos=conjunction|type=coordinating                                      - - - - - - -
+2  é                  ser                VMIP3S0 VMI pos=verb|type=main|mood=indicative|tense=present|person=3|num=singular - - - - - - -
+3  também             também             RG      RG  pos=adverb|type=general                                                - - - - - - -
+4  preciso            preciso            AQ0MS00 AQ  pos=adjective|type=qualificative|gen=masculine|num=singular            - - - - - - -
+5  a                  o                  DA0FS0  DA  pos=determiner|type=article|gen=feminine|num=singular                  - - - - - - -
+6  sociedade          sociedade          NCFS000 NC  pos=noun|type=common|gen=feminine|num=singular                         - - - - - - -
+7  mobilizar          mobilizar          VMN03S0 VMN pos=verb|type=main|mood=infinitive|person=3|num=singular               - - - - - - -
+8  se                 se                 PP3CN00 PP  pos=pronoun|type=personal|person=3|gen=common|num=invariable           - - - - - - -
+9  para               para               SP      SP  pos=adposition|type=preposition                                        - - - - - - -
+10 sensibilizar       sensibilizar       VMN0000 VMN pos=verb|type=main|mood=infinitive                                     - - - - - - -
+11 o                  o                  DA0MS0  DA  pos=determiner|type=article|gen=masculine|num=singular                 - - - - - - -
+12 futuro             futuro             NCMS000 NC  pos=noun|type=common|gen=masculine|num=singular                        - - - - - - -
+13 Congresso_Nacional congresso_nacional NP00000 NP  pos=noun|type=proper                                                   - - - - - - -
+14 em                 em                 SP      SP  pos=adposition|type=preposition                                        - - - - - - -
+15 a                  o                  DA0FS0  DA  pos=determiner|type=article|gen=feminine|num=singular                  - - - - - - -
+16 promoção           promoção           NCFS000 NC  pos=noun|type=common|gen=feminine|num=singular                         - - - - - - -
+17 de                 de                 SP      SP  pos=adposition|type=preposition                                        - - - - - - -
+18 reformas           reforma            NCFP000 NC  pos=noun|type=common|gen=feminine|num=plural                           - - - - - - -
+19 constitucionais    constitucional     AQ0CP00 AQ  pos=adjective|type=qualificative|gen=common|num=plural                 - - - - - - -
+20 indispensáveis     indispensável      AQ0CP00 AQ  pos=adjective|type=qualificative|gen=common|num=plural                 - - - - - - -
+21 a                  a                  SP      SP  pos=adposition|type=preposition                                        - - - - - - -
+22 o                  o                  DA0MS0  DA  pos=determiner|type=article|gen=masculine|num=singular                 - - - - - - -
+23 êxito              êxito              NCMS000 NC  pos=noun|type=common|gen=masculine|num=singular                        - - - - - - -
+24 de                 de                 SP      SP  pos=adposition|type=preposition                                        - - - - - - -
+25 as                 o                  DA0FP0  DA  pos=determiner|type=article|gen=feminine|num=plural                    - - - - - - -
+26 mudanças           mudança            NCFP000 NC  pos=noun|type=common|gen=feminine|num=plural                           - - - - - - -
+27 pretendidas        pretender          VMP00PF VMP pos=verb|type=main|mood=pastparticiple|num=plural|gen=feminine         - - - - - - -
+28 .                  .                  Fp      Fp  pos=punctuation|type=period                                            - - - - - - -
+
+
+Na Anhanguera, que une São Paulo a Ribeirão Preto, costuma haver neblina pesada entre o km 21 e o km 43, também perto de Perus e Cajamar. 
+
+1  Em                         em                         SP      SP  pos=adposition|type=preposition                                        - - - - - - -
+2  a                          o                          DA0FS0  DA  pos=determiner|type=article|gen=feminine|num=singular                  - - - - - - -
+3  Anhanguera                 anhanguera                 NP00000 NP  pos=noun|type=proper                                                   - - - - - - -
+4  ,                          ,                          Fc      Fc  pos=punctuation|type=comma                                             - - - - - - -
+5  que                        que                        PR0CN00 PR  pos=pronoun|type=relative|gen=common|num=invariable                    - - - - - - -
+6  une                        unir                       VMIP3S0 VMI pos=verb|type=main|mood=indicative|tense=present|person=3|num=singular - - - - - - -
+7  São_Paulo_a_Ribeirão_Preto são_paulo_a_ribeirão_preto NP00000 NP  pos=noun|type=proper                                                   - - - - - - -
+8  ,                          ,                          Fc      Fc  pos=punctuation|type=comma                                             - - - - - - -
+9  costuma                    costumar                   VMIP3S0 VMI pos=verb|type=main|mood=indicative|tense=present|person=3|num=singular - - - - - - -
+10 haver                      haver                      VMN0000 VMN pos=verb|type=main|mood=infinitive                                     - - - - - - -
+11 neblina                    neblina                    NCFS000 NC  pos=noun|type=common|gen=feminine|num=singular                         - - - - - - -
+12 pesada                     pesar                      VMP00SF VMP pos=verb|type=main|mood=pastparticiple|num=singular|gen=feminine       - - - - - - -
+13 entre                      entre                      SP      SP  pos=adposition|type=preposition                                        - - - - - - -
+14 o                          o                          DA0MS0  DA  pos=determiner|type=article|gen=masculine|num=singular                 - - - - - - -
+15 km                         km                         NCCN000 NC  pos=noun|type=common|gen=common|num=invariable                         - - - - - - -
+16 21                         21                         Z       Z   pos=number                                                             - - - - - - -
+17 e                          e                          CC      CC  pos=conjunction|type=coordinating                                      - - - - - - -
+18 o                          o                          DA0MS0  DA  pos=determiner|type=article|gen=masculine|num=singular                 - - - - - - -
+19 km                         km                         NCCN000 NC  pos=noun|type=common|gen=common|num=invariable                         - - - - - - -
+20 43                         43                         Z       Z   pos=number                                                             - - - - - - -
+21 ,                          ,                          Fc      Fc  pos=punctuation|type=comma                                             - - - - - - -
+22 também                     também                     RG      RG  pos=adverb|type=general                                                - - - - - - -
+23 perto_de                   perto_de                   SP      SP  pos=adposition|type=preposition                                        - - - - - - -
+24 Perus                      perus                      NP00000 NP  pos=noun|type=proper                                                   - - - - - - -
+25 e                          e                          CC      CC  pos=conjunction|type=coordinating                                      - - - - - - -
+26 Cajamar                    cajamar                    NP00000 NP  pos=noun|type=proper                                                   - - - - - - -
+27 .                          .                          Fp      Fp  pos=punctuation|type=period                                            - - - - - - -
+
+
+Mesmo entendendo suas explicações sobre o programa de governo, entendo que ele tinha que ter um programa de governo, que vai dar um meio de cobrar depois. 
+
+1  Mesmo       mesmo      RG      RG  pos=adverb|type=general                                                               - - - - - - -
+2  entendendo  entender   VMG0000 VMG pos=verb|type=main|mood=gerund                                                        - - - - - - -
+3  suas        seu        DP3FSP  DP  pos=determiner|type=possessive|person=3|gen=feminine|num=singular|possessornum=plural - - - - - - -
+4  explicações explicação NCFP000 NC  pos=noun|type=common|gen=feminine|num=plural                                          - - - - - - -
+5  sobre       sobre      SP      SP  pos=adposition|type=preposition                                                       - - - - - - -
+6  o           o          DA0MS0  DA  pos=determiner|type=article|gen=masculine|num=singular                                - - - - - - -
+7  programa    programa   NCMS000 NC  pos=noun|type=common|gen=masculine|num=singular                                       - - - - - - -
+8  de          de         SP      SP  pos=adposition|type=preposition                                                       - - - - - - -
+9  governo     governo    NCMS000 NC  pos=noun|type=common|gen=masculine|num=singular                                       - - - - - - -
+10 ,           ,          Fc      Fc  pos=punctuation|type=comma                                                            - - - - - - -
+11 entendo     entender   VMIP1S0 VMI pos=verb|type=main|mood=indicative|tense=present|person=1|num=singular                - - - - - - -
+12 que         que        CS      CS  pos=conjunction|type=subordinating                                                    - - - - - - -
+13 ele         ele        PP3MS00 PP  pos=pronoun|type=personal|person=3|gen=masculine|num=singular                         - - - - - - -
+14 tinha       ter        VMII1S0 VMI pos=verb|type=main|mood=indicative|tense=imperfect|person=1|num=singular              - - - - - - -
+15 que         que        CS      CS  pos=conjunction|type=subordinating                                                    - - - - - - -
+16 ter         ter        VMN0000 VMN pos=verb|type=main|mood=infinitive                                                    - - - - - - -
+17 um          um         DI0MS0  DI  pos=determiner|type=indefinite|gen=masculine|num=singular                             - - - - - - -
+18 programa    programa   NCMS000 NC  pos=noun|type=common|gen=masculine|num=singular                                       - - - - - - -
+19 de          de         SP      SP  pos=adposition|type=preposition                                                       - - - - - - -
+20 governo     governo    NCMS000 NC  pos=noun|type=common|gen=masculine|num=singular                                       - - - - - - -
+21 ,           ,          Fc      Fc  pos=punctuation|type=comma                                                            - - - - - - -
+22 que         que        PR0CN00 PR  pos=pronoun|type=relative|gen=common|num=invariable                                   - - - - - - -
+23 vai         ir         VMIP3S0 VMI pos=verb|type=main|mood=indicative|tense=present|person=3|num=singular                - - - - - - -
+24 dar         dar        VMN0000 VMN pos=verb|type=main|mood=infinitive                                                    - - - - - - -
+25 um          um         DI0MS0  DI  pos=determiner|type=indefinite|gen=masculine|num=singular                             - - - - - - -
+26 meio        meio       NCMS000 NC  pos=noun|type=common|gen=masculine|num=singular                                       - - - - - - -
+27 de          de         SP      SP  pos=adposition|type=preposition                                                       - - - - - - -
+28 cobrar      cobrar     VMN0000 VMN pos=verb|type=main|mood=infinitive                                                    - - - - - - -
+29 depois      depois     RG      RG  pos=adverb|type=general                                                               - - - - - - -
+30 .           .          Fp      Fp  pos=punctuation|type=period                                                           - - - - - - -
+
+
+O mais perigoso é na região da Serra das Conchas, entre o km 129 e o km 162, logo após Tatuí, para quem vai para o interior. 
+
+1  O                 o                 DA0MS0  DA  pos=determiner|type=article|gen=masculine|num=singular                 - - - - - - -
+2  mais              mais              RG      RG  pos=adverb|type=general                                                - - - - - - -
+3  perigoso          perigoso          AQ0MS00 AQ  pos=adjective|type=qualificative|gen=masculine|num=singular            - - - - - - -
+4  é                 ser               VMIP3S0 VMI pos=verb|type=main|mood=indicative|tense=present|person=3|num=singular - - - - - - -
+5  em                em                SP      SP  pos=adposition|type=preposition                                        - - - - - - -
+6  a                 o                 DA0FS0  DA  pos=determiner|type=article|gen=feminine|num=singular                  - - - - - - -
+7  região            região            NCFS000 NC  pos=noun|type=common|gen=feminine|num=singular                         - - - - - - -
+8  de                de                SP      SP  pos=adposition|type=preposition                                        - - - - - - -
+9  a                 o                 DA0FS0  DA  pos=determiner|type=article|gen=feminine|num=singular                  - - - - - - -
+10 Serra_das_Conchas serra_das_conchas NP00000 NP  pos=noun|type=proper                                                   - - - - - - -
+11 ,                 ,                 Fc      Fc  pos=punctuation|type=comma                                             - - - - - - -
+12 entre             entre             SP      SP  pos=adposition|type=preposition                                        - - - - - - -
+13 o                 o                 DA0MS0  DA  pos=determiner|type=article|gen=masculine|num=singular                 - - - - - - -
+14 km                km                NCCN000 NC  pos=noun|type=common|gen=common|num=invariable                         - - - - - - -
+15 129               129               Z       Z   pos=number                                                             - - - - - - -
+16 e                 e                 CC      CC  pos=conjunction|type=coordinating                                      - - - - - - -
+17 o                 o                 DA0MS0  DA  pos=determiner|type=article|gen=masculine|num=singular                 - - - - - - -
+18 km                km                NCCN000 NC  pos=noun|type=common|gen=common|num=invariable                         - - - - - - -
+19 162               162               Z       Z   pos=number                                                             - - - - - - -
+20 ,                 ,                 Fc      Fc  pos=punctuation|type=comma                                             - - - - - - -
+21 logo              logo              RG      RG  pos=adverb|type=general                                                - - - - - - -
+22 após              após              SP      SP  pos=adposition|type=preposition                                        - - - - - - -
+23 Tatuí             tatuí             NP00000 NP  pos=noun|type=proper                                                   - - - - - - -
+24 ,                 ,                 Fc      Fc  pos=punctuation|type=comma                                             - - - - - - -
+25 para              para              SP      SP  pos=adposition|type=preposition                                        - - - - - - -
+26 quem              quem              PR0CN00 PR  pos=pronoun|type=relative|gen=common|num=invariable                    - - - - - - -
+27 vai               ir                VMIP3S0 VMI pos=verb|type=main|mood=indicative|tense=present|person=3|num=singular - - - - - - -
+28 para              para              SP      SP  pos=adposition|type=preposition                                        - - - - - - -
+29 o                 o                 DA0MS0  DA  pos=determiner|type=article|gen=masculine|num=singular                 - - - - - - -
+30 interior          interior          NCMS000 NC  pos=noun|type=common|gen=masculine|num=singular                        - - - - - - -
+31 .                 .                 Fp      Fp  pos=punctuation|type=period                                            - - - - - - -
+
+
+O prefeito de Juazeiro, Manoel Salviano (PSDB), disse que qualquer funcionário que tenha participado da recepção «foi espontaneamente, sem nenhuma pressão da prefeitura». 
+
+1  O               o               DA0MS0  DA  pos=determiner|type=article|gen=masculine|num=singular                  - - - - - - -
+2  prefeito        prefeito        NCMS000 NC  pos=noun|type=common|gen=masculine|num=singular                         - - - - - - -
+3  de              de              SP      SP  pos=adposition|type=preposition                                         - - - - - - -
+4  Juazeiro        juazeiro        NP00000 NP  pos=noun|type=proper                                                    - - - - - - -
+5  ,               ,               Fc      Fc  pos=punctuation|type=comma                                              - - - - - - -
+6  Manoel_Salviano manoel_salviano NP00000 NP  pos=noun|type=proper                                                    - - - - - - -
+7  (               (               Fpa     Fpa pos=punctuation|type=parenthesis|punctenclose=open                      - - - - - - -
+8  PSDB            psdb            NP00000 NP  pos=noun|type=proper                                                    - - - - - - -
+9  )               )               Fpt     Fpt pos=punctuation|type=parenthesis|punctenclose=close                     - - - - - - -
+10 ,               ,               Fc      Fc  pos=punctuation|type=comma                                              - - - - - - -
+11 disse           dizer           VMIS3S0 VMI pos=verb|type=main|mood=indicative|tense=past|person=3|num=singular     - - - - - - -
+12 que             que             CS      CS  pos=conjunction|type=subordinating                                      - - - - - - -
+13 qualquer        qualquer        DI0CS0  DI  pos=determiner|type=indefinite|gen=common|num=singular                  - - - - - - -
+14 funcionário     funcionário     NCMS000 NC  pos=noun|type=common|gen=masculine|num=singular                         - - - - - - -
+15 que             que             PR0CN00 PR  pos=pronoun|type=relative|gen=common|num=invariable                     - - - - - - -
+16 tenha           ter             VMSP1S0 VMS pos=verb|type=main|mood=subjunctive|tense=present|person=1|num=singular - - - - - - -
+17 participado     participar      VMP00SM VMP pos=verb|type=main|mood=pastparticiple|num=singular|gen=masculine       - - - - - - -
+18 de              de              SP      SP  pos=adposition|type=preposition                                         - - - - - - -
+19 a               o               DA0FS0  DA  pos=determiner|type=article|gen=feminine|num=singular                   - - - - - - -
+20 recepção        recepção        NCFS000 NC  pos=noun|type=common|gen=feminine|num=singular                          - - - - - - -
+21 «               «               Fra     Fra pos=punctuation|type=quotation|punctenclose=open                        - - - - - - -
+22 foi             ir              VMIS3S0 VMI pos=verb|type=main|mood=indicative|tense=past|person=3|num=singular     - - - - - - -
+23 espontaneamente espontaneamente RG      RG  pos=adverb|type=general                                                 - - - - - - -
+24 ,               ,               Fc      Fc  pos=punctuation|type=comma                                              - - - - - - -
+25 sem             sem             SP      SP  pos=adposition|type=preposition                                         - - - - - - -
+26 nenhuma         nenhum          DI0FS0  DI  pos=determiner|type=indefinite|gen=feminine|num=singular                - - - - - - -
+27 pressão         pressão         NCFS000 NC  pos=noun|type=common|gen=feminine|num=singular                          - - - - - - -
+28 de              de              SP      SP  pos=adposition|type=preposition                                         - - - - - - -
+29 a               o               DA0FS0  DA  pos=determiner|type=article|gen=feminine|num=singular                   - - - - - - -
+30 prefeitura      prefeitura      NCFS000 NC  pos=noun|type=common|gen=feminine|num=singular                          - - - - - - -
+31 »               »               Frc     Frc pos=punctuation|type=quotation|punctenclose=close                       - - - - - - -
+32 .               .               Fp      Fp  pos=punctuation|type=period                                             - - - - - - -
