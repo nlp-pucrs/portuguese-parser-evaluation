@@ -1,0 +1,430 @@
+#4205 CF996-8 Nessa época, Fishel teria conhecido o ginecologista britânico Robert Winston, a quem convidou para um encontro científico promovido por Antinori.
+(FRASE CF996-8 (STA:fcl (ADVL:pp (H:prp:em:: Em+)
+                                 (P<:np (>N:pron-det:esse:F_S::dem: essa)
+                                        (H:n:época:F_S::np-def: época)))
+                        (,)
+                        (SUBJ:np (H:prop:Fishel:M_S::: Fishel))
+                        (P:vp (AUX:v-fin:ter:PR_3S_COND::: teria)
+                              (MV:v-pcp:conhecer:::: conhecido))
+                        (ACC:np (>N:art:o:M_S::artd: o)
+                                (H:n:ginecologista:F_S::np-def: ginecologista)
+                                (N<:adjp 
+                                  (H:adj:britânico:M_S::: britânico))
+                                (N<:np (H:prop:Robert_Winston:M_S::: Robert_Winston)
+                                       (,)
+                                       (N<PRED:fcl 
+                                         (SUB:pp 
+                                           (H:prp:a:::: a)
+                                           (P<:np 
+                                             (H:pron-indp:quem:M_S::rel: quem)))
+                                         (P:vp 
+                                           (MV:v-fin:convidar:PS_3S_IND::fs-rel:nosubj: convidou))
+                                         (PIV:pp 
+                                           (H:prp:para:::: para)
+                                           (P<:np 
+                                             (>N:art:um:M_S::arti: um)
+                                             (H:n:encontro:M_S::np-idf: encontro)
+                                             (N<:adjp 
+                                               (H:adj:científico:M_S::: científico))
+                                             (N<:icl 
+                                               (P:vp 
+                                                 (MV:v-pcp:promover:M_S::: promovido))
+                                               (PASS:pp 
+                                                 (H:prp:por:::: por)
+                                                 (P<:np 
+                                                   (H:prop:Antinori:M_S::: Antinori)))))))))
+                        (.)))
+                        
+                        
+
+
+#988 CF230-1 Nenhum filme brasileiro foi escolhido, quebrando assim a expectativa criada em torno de ´Alma Corsária' de Carlos Reichenbach e ´Mil e Uma' de Suzana de Moraes.
+(FRASE CF230-1 (STA:fcl (SUBJ:np (>N:pron-det:nenhum:M_S::quant: Nenhum)
+                                 (H:n:filme:M_S::anr_np-idf: filme)
+                                 (N<:adjp 
+                                   (H:adj:brasileiro:M_S: brasileiro)))
+                        (P:vp (AUX:v-fin:ser:PS_3S_IND::: foi)
+                              (MV:v-pcp:escolher:M_S::anr_pass:passive: escolhido))
+                        (,)
+                        (ADVL:icl::::ger: 
+                          (P:vp (MV:v-ger:quebrar:::: quebrando))
+                          (ADVL:advp (H:adv:assim:::kc: assim))
+                          (ACC:np (>N:art:o:F_S::artd: a)
+                                  (H:n:expectativa:F_S::np-def: expectativa)
+                                  (N<:icl 
+                                    (P:vp 
+                                      (MV:v-pcp:criar:F_S::: criada))
+                                    (ADVL:pp 
+                                      (H:prp:em_torno_de:::: em_torno_de)
+                                      (P<:cu 
+                                        (CJT:np 
+                                          (´)
+                                          (H:prop:Alma_Cors·ria:M_S::: Alma_Corsária)
+                                          ()
+                                          (N<PRED:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:prop:Carlos_Reichenbach:M_S::: Carlos_Reichenbach))))
+                                        (CO:conj-c:e:::co-prparg: e)
+                                        (CJT:np 
+                                          (´)
+                                          (H:prop:Mil_e_Uma:M_S::: Mil_e_Uma)
+                                          (')
+                                          (N<PRED:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:prop:Suzana_de_Moraes:F_S::: Suzana_de_Moraes)))))))))
+                        (.)))
+                        
+                        
+#4184 CF990-5 Na terceira colocação, 34 pontos, a Juventus de Turim visita o Genoa, 22, no limiar do rebaixamento.
+(FRASE CF990-5 (STA:fcl (ADVL:pp (H:prp:em:: Em+)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (>N:adj:terceiro:F_S::NUM-ord: terceira)
+                                        (H:n:colocação:F_S::anr_np-def: colocação)
+                                        (,)
+                                        (N<PRED:np 
+                                          (>N:num:34:M_P::card: 34)
+                                          (H:n:ponto:M_P::anr_np-count:anr_np-def: pontos))
+                                        (,)))
+                        (SUBJ:np (>N:art:o:F_S::artd: a)
+                                 (H:prop:Juventus:F_S::: Juventus)
+                                 (N<:pp (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:prop:Turim:M_S::: Turim))))
+                        (P:vp (MV:v-fin:visitar:PR_3S_IND::: visita))
+                        (ACC:np (>N:art:o:M_S::artd: o)
+                                (H:prop:Genoa:M_S::: Genoa)
+                                (,)
+                                (N<PRED:adjp 
+                                  (H:num:22:M_P::card: 22))
+                                (,))
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:n:limiar:M_S::np-def: limiar)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:rebaixamento:M_S::np-def: rebaixamento)))))
+                        (.)))
+                        
+#4190 CF992-1 O projeto vem sendo implementado, em caráter experimental, em três escolas: Morumbi, Visconde de Porto Seguro (particulares) e Godofredo Furtado (estadual).
+(FRASE CF992-1 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:projeto:M_S::np-def: projeto))
+                        (P:vp (AUX:v-fin:vir:PR_3S_IND: vem)
+                              (AUX:v-ger:ser:::: sendo)
+                              (MV:v-pcp:implementar:M_S::anr_pass:passive: implementado))
+                        (,)
+                        (ADVL:pp (H:prp:em:::: em)
+                                 (P<:np (H:n:caráter:M_S::np-idf: caráter)
+                                        (N<:adjp 
+                                          (H:adj:experimental:M_S::: experimental))))
+                        (,)
+                        (ADVL:pp (H:prp:em:::: em)
+                                 (P<:np (>N:num:três:F_P::card: três)
+                                        (H:n:escola:F_P::anr_np-count:anr_np-def: escolas)
+                                        (;)
+                                        (N<PRED:cu 
+                                          (CJT:np 
+                                            (H:prop:Morumbi:M_S::: Morumbi))
+                                          (,)
+                                          (CJT:np 
+                                            (H:prop:Visconde_de_Porto_Seguro:M_S::: Visconde_de_Porto_Seguro)
+                                            ({)
+                                            (N<PRED:np::::Eg: 
+                                              (H:adj:particular:F_P::Eg:anr_np-idf: particulares))
+                                            (}))
+                                          (CO:conj-c:e:::co-pred: e)
+                                          (CJT:np 
+                                            (H:prop:Godofredo_Furtado:M_S::: Godofredo_Furtado)
+                                            ({)
+                                            (N<PRED:np::::Eg: 
+                                              (H:adj:estadual:F_S::Eg: estadual))
+                                            (})))))
+                        (.)))
+                        
+#4206 CF997-2 O cineasta italiano Franco Zefirelli revelou que, para iludir o serviço militar durante o período fascista, se tornou um partisan e acabou matando um soldado alemão.
+(FRASE CF997-2 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:cineasta:M_S::np-def: cineasta)
+                                 (N<:adjp 
+                                   (H:adj:italiano:M_S: italiano))
+                                 (N<:np (H:prop:Franco_Zefirelli:M_S::: Franco_Zefirelli)))
+                        (P:vp (MV:v-fin:revelar:PS_3S_IND::: revelou))
+                        (ACC:fcl (SUB:conj-s:que:::: que)
+                                 (,)
+                                 (ADVL:pp 
+                                   (H:prp:para:::: para)
+                                   (P<:icl 
+                                     (P:vp 
+                                       (MV:v-inf:iludir:::icl-fin: iludir))
+                                     (ACC:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:n:serviço:M_S::np-def: serviço)
+                                       (N<:adjp 
+                                         (H:adj:militar:M_S::: militar)))
+                                     (ADVL:pp 
+                                       (H:prp:durante:::: durante)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:período:M_S::np-def: período)
+                                         (N<:adjp 
+                                           (H:adj:fascista:M_S::: fascista))))))
+                                 (,)
+                                 (X:cu (CJT:x 
+                                         (ACC:np 
+                                           (H:pron-pers:se:M_3S_ACC::refl: se))
+                                         (P:vp 
+                                           (MV:v-fin:tornar:PS_3S_IND::fs-subst:nosubj: tornou))
+                                         (OC:np 
+                                           (>N:art:um:M_S::arti: um)
+                                           (H:n:partisan:M_S::np-idf: partisan)))
+                                       (CO:conj-c:e:::: e)
+                                       (CJT:x 
+                                         (P:vp 
+                                           (AUX:v-fin:acabar:PS_3S_IND::: acabou)
+                                           (MV:v-ger:matar:::nosubj: matando))
+                                         (ACC:np 
+                                           (>N:art:um:M_S::arti: um)
+                                           (H:n:soldado:M_S::np-idf: soldado)
+                                           (N<:adjp 
+                                             (H:adj:alemão:M_S::: alemão))))))
+                        (.)))
+           
+#4210 CF998-2 Mas é também preciso a sociedade mobilizar-se para sensibilizar o futuro Congresso Nacional na promoção de reformas constitucionais indispensáveis ao êxito das mudanças pretendidas.
+(FRASE CF998-2 (STA:fcl (CO:conj-c:mas:: Mas)
+                        (P:vp (MV:v-fin:ser:PR_3S_IND::: é))
+                        (SC:adjp (>A:adv:também:::: também)
+                                 (H:adj:preciso:M_S::: preciso))
+                        (SUBJ:icl (SUBJ:np 
+                                    (H:prp:a:::: a)
+                                    (N<:np 
+                                      (H:n:sociedade:F_S::np-idf: sociedade)))
+                                  (P:vp (MV:v-inf:mobilizar:_::hyfen:icl-subst: mobilizar-))
+                                  (ACC:np 
+                                    (H:pron-pers:se:F_3S_ACC::: se))
+                                  (ADVL:pp 
+                                    (H:prp:para:::: para)
+                                    (P<:icl 
+                                      (P:vp 
+                                        (MV:v-inf:sensibilizar:::icl-fin: sensibilizar))
+                                      (ACC:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (>N:adj:futuro:M_S::: futuro)
+                                        (H:prop:Congresso_Nacional:M_S::: Congresso_Nacional))
+                                      (ADVL:pp 
+                                        (H:prp:em:::: em+)
+                                        (P<:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:n:promoção:F_S::np-def: promoção)
+                                          (N<ARGO:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:n:reforma:F_P::np-idf: reformas)
+                                              (N<:adjp 
+                                                (H:adj:constitucional:F_P::: constitucionais))
+                                              (N<:adjp 
+                                                (H:adj:indispensável:F_P::: indispensáveis)
+                                                (A<:pp 
+                                                  (H:prp:a:::: a+)
+                                                  (P<:np 
+                                                    (>N:art:o:M_S::artd: o)
+                                                    (H:n:êxito:M_S::np-def: êxito)
+                                                    (N<:pp 
+                                                      (H:prp:de:::: de+)
+                                                      (P<:np 
+                                                        (>N:art:o:F_P::artd: as)
+                                                        (H:n:mudanca:F_P::np-def: mudanças)
+                                                        (N<:v-pcp:pretender:F_P::: pretendidas)))))))))))))
+                        (.)))
+
+
+#4155 CF984-1 Na Anhanguera, que une São Paulo a Ribeirão Preto, costuma haver neblina pesada entre o km 21 e o km 43, também perto de Perus e Cajamar.
+(FRASE CF984-1 (STA:fcl (ADVL:pp (H:prp:em:: Em+)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:prop:Anhanguera:F_S::: Anhanguera)
+                                        (,)
+                                        (N<PRED:fcl 
+                                          (SUBJ:np 
+                                            (H:pron-indp:que:F_S::rel: que))
+                                          (P:vp 
+                                            (MV:v-fin:unir:PR_3S_IND::fs-rel: une))
+                                          (ACC:np 
+                                            (H:prop:São_Paulo:M_S::: São_Paulo))
+                                          (PIV:pp 
+                                            (H:prp:a:::: a)
+                                            (P<:np 
+                                              (H:prop:Ribeirão_Preto:M_S::: Ribeirão_Preto))))
+                                        (,)))
+                        (P:vp (AUX:v-fin:costumar:PR_3S_IND::: costuma)
+                              (MV:v-inf:haver:::nofsubj: haver))
+                        (ACC:np (H:n:neblina:F_S::np-idf: neblina)
+                                (N<:v-pcp:pesar:F_S::: pesada)
+                                (N<:pp (H:prp:entre:::: entre)
+                                       (P<:cu 
+                                         (CJT:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:n:km:M_S::np-def: km)
+                                           (N<:adjp 
+                                             (H:num:21:M_P::card: 21)))
+                                         (CO:conj-c:e:::co-prparg: e)
+                                         (CJT:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:n:km:M_S::np-def: km)
+                                           (N<:adjp 
+                                             (H:num:43:M_P::card: 43))))))
+                        (,)
+                        (ADVL:pp (>P:adv:também:::: também)
+                                 (H:prp:perto_de:::: perto_de)
+                                 (P<:cu (CJT:np 
+                                          (H:n:peru:M_P::np-idf: Perus))
+                                        (CO:conj-c:e:::co-prparg: e)
+                                        (CJT:np 
+                                          (H:prop:Cajamar:M_S::: Cajamar))))
+                        (.)))
+                        
+                        
+#4049 CF958-3 Mesmo entendendo suas explicações sobre o programa de governo, entendo que ele tinha que ter um programa de governo, que vai dar um meio de cobrar depois.
+(FRASE CF958-3 (STA:fcl (ADVL:pp (H:adv:mesmo:quant: Mesmo)
+                                 (P<:fcl 
+                                   (P:vp 
+                                     (MV:v-ger:entender:::: entendendo))
+                                   (ACC:np 
+                                     (>N:pron-det:seu:F_P::si: suas)
+                                     (H:n:explicação:F_P::anr_np-idf: explicações)
+                                     (N<:pp 
+                                       (H:prp:sobre:::: sobre)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:programa:M_S::np-def: programa)
+                                         (N<:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (H:n:governo:M_S::np-idf: governo))))))))
+                        (,)
+                        (P:vp (MV:v-fin:entender:PR_1S_IND::nosubj: entendo))
+                        (ACC:fcl (SUB:conj-s:que:::: que)
+                                 (SUBJ:np 
+                                   (H:pron-pers:ele:M_3S_NOM::: ele))
+                                 (P:vp (AUX:v-fin:ter:IMPF_3S_IND::: tinha)
+                                       (PRT-AUX:conj-s:que:::: que)
+                                       (MV:v-inf:ter:::icl-subst: ter))
+                                 (ACC:np 
+                                   (>N:art:um:M_S::arti: um)
+                                   (H:n:programa:M_S::np-idf: programa)
+                                   (N<:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:np 
+                                       (H:n:governo:M_S::np-idf: governo)))
+                                   (,)
+                                   (N<PRED:fcl 
+                                     (SUBJ:np 
+                                       (H:pron-indp:que:M_S::rel: que))
+                                     (P:vp 
+                                       (AUX:v-fin:ir:PR_3S_IND::: vai)
+                                       (MV:v-inf:dar:::fs-rel: dar))
+                                     (ACC:np 
+                                       (>N:art:um:M_S::arti: um)
+                                       (H:n:meio:M_S::np-idf: meio)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:icl 
+                                           (P:vp 
+                                             (MV:v-inf:cobrar:::: cobrar))
+                                           (ADVL:advp 
+                                             (H:adv:depois:::: depois))))))))
+                        (.)))
+                        
+                        
+#4158 CF984-4 O mais perigoso é na região da Serra das Conchas, entre o km 129 e o km 162, logo após Tatuí, para quem vai para o interior.
+(FRASE CF984-4 (STA:fcl (SUBJ:np (H:art:o:M_S::artd: O)
+                                 (N<:adjp 
+                                   (>A:adv:mais:_::KOMP:quant: mais)
+                                   (H:n-adj:perigoso:M_S: perigoso)))
+                        (P:vp (MV:v-fin:ser:PR_3S_IND::: é))
+                        (SC:pp (H:prp:em:::: em+)
+                               (P<:np (>N:art:o:F_S::artd: a)
+                                      (H:n:região:F_S::np-def: região)
+                                      (N<:pp 
+                                        (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:prop:Serra_das_Conchas:F_S::: Serra_das_Concha)))))
+                        (,)
+                        (ADVL:pp (H:prp:entre:::: entre)
+                                 (P<:cu (CJT:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:km:M_S::np-def: km)
+                                          (N<:adjp 
+                                            (H:num:129:M_P::card: 129)))
+                                        (CO:conj-c:e:::co-prparg: e)
+                                        (CJT:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:km:M_S::np-def: km)
+                                          (N<:adjp 
+                                            (H:num:162:M_P::card: 162)))))
+                        (,)
+                        (ADVL:pp (>P:adv:logo:::kc: logo)
+                                 (H:prp:após:::: após)
+                                 (P<:np (H:prop:Tatuí:M_S::: Tatuí)))
+                        (,)
+                        (SA:pp (H:prp:para:::: para)
+                               (P<:fcl (SUBJ:np 
+                                         (H:pron-indp:quem:MF_SP::rel: quem))
+                                       (P:vp 
+                                         (MV:v-fin:ir:PR_3S_IND::fs-subst: vai))
+                                       (PIV:pp 
+                                         (H:prp:para:::: para)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:n:interior:M_S::np-def: interior)))))
+                        (.)))
+                        
+                  
+#4091 CF967-1 O prefeito de Juazeiro, Manoel Salviano (PSDB), disse que qualquer funcionário que tenha participado da recepção ´foi espontaneamente, sem nenhuma pressão da prefeitura'.
+(FRASE CF967-1 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:prefeito:M_S::np-def: prefeito)
+                                 (N<:pp (H:prp:de:: de)
+                                        (P<:np 
+                                          (H:prop:Juazeiro:M_S::: Juazeiro)
+                                          (,)
+                                          (APP:np 
+                                            (H:prop:Manoel_Salviano:M_S::: Manoel_Salviano)
+                                            ({)
+                                            (N<PRED:np 
+                                              (H:prop:PSDB:M_S::: PSDB))
+                                            (}))
+                                          (,))))
+                        (P:vp (MV:v-fin:dizer:PS_3S_IND::: disse))
+                        (ACC:fcl (SUB:conj-s:que:::: que)
+                                 (SUBJ:np 
+                                   (>N:pron-det:qualquer:M_S::quant: qualquer)
+                                   (H:n:funcionário:M_S::anr_np-idf: funcionário)
+                                   (N<:fcl 
+                                     (SUBJ:np 
+                                       (H:pron-indp:que:M_S::rel: que))
+                                     (P:vp 
+                                       (AUX:v-fin:ter:PR_3S_SUBJ::: tenha)
+                                       (MV:v-pcp:participar:::fs-rel: participado))
+                                     (PIV:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:recepção:F_S::np-def: recepção)))))
+                                 (´)
+                                 (P:vp (MV:v-fin:ser:PS_3S_IND::fs-subst: foi))
+                                 (ADVL:advp 
+                                   (H:adv:espontaneamente:::: espontaneamente))
+                                 (,)
+                                 (ADVL:pp 
+                                   (H:prp:sem:::: sem)
+                                   (P<:np 
+                                     (>N:pron-det:nenhum:F_S::quant: nenhuma)
+                                     (H:n:pressão:F_S::anr_np-idf: pressão)
+                                     (N<:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:prefeitura:F_S::np-def: prefeitura)))))
+                                 ('))
+                        (.)))
