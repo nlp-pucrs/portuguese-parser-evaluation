@@ -1,4 +1,4 @@
-<s id="4205" ref="CF996-8" source="CETENFolha n=996 cad=Mundo sec=pol sem=94b" forest="1" text="Nessa época, Fishel teria conhecido o ginecologista britânico Robert Winston, a quem convidou para um encontro científico promovido por Antinori.">
+<s id="4205" ref="CF996-8" source="CETENFolha n=996 cad=Mundo sec=pol sem=94b" forest="1" text="Nessa época, Fishel teria conhecido o ginecologista britânico Robert_Winston, a quem convidou para um encontro científico promovido por Antinori.">
 
 Em	[em] <sam-> PRP  @ADVL> #1->7 
 essa	[esse] <dem> DET F S @>N #2->3 
@@ -25,7 +25,7 @@ Antinori	[Antinori]  PROP M S @P< #22->21
 $. #23->0 
 
 
-<s id="988" ref="CF230-1" source="CETENFolha n=230 cad=Ilustrada sec=nd sem=94b" forest="1" text="Nenhum filme brasileiro foi escolhido, quebrando assim a expectativa criada em torno de «Alma Corsária» de Carlos Reichenbach e «Mil e Uma» de Suzana de Moraes.">
+<s id="988" ref="CF230-1" source="CETENFolha n=230 cad=Ilustrada sec=nd sem=94b" forest="1" text="Nenhum filme brasileiro foi escolhido, quebrando assim a expectativa criada em_torno_de «Alma_Corsária» de Carlos_Reichenbach e «Mil_e_Uma» de Suzana_de_Moraes.">
 
 Nenhum	[nenhum] <quant> DET M S @>N #1->2 
 filme	[filme]  N M S @SUBJ> #2->4 
@@ -82,7 +82,7 @@ rebaixamento	[rebaixamento]  N M S @P< #24->22
 $. #25->0
 
 
-<s id="4190" ref="CF992-1" source="CETENFolha n=992 cad=Cotidiano sec=soc sem=94a" forest="1" text="O projeto vem sendo implementado, em caráter experimental, em três escolas: Morumbi, Visconde de Porto Seguro (particulares) e Godofredo Furtado (estadual).">
+<s id="4190" ref="CF992-1" source="CETENFolha n=992 cad=Cotidiano sec=soc sem=94a" forest="1" text="O projeto vem sendo implementado, em caráter experimental, em três escolas: Morumbi, Visconde_de_Porto_Seguro (particulares) e Godofredo_Furtado (estadual).">
 
 O	[o] <artd> ART M S @>N #1->2 
 projeto	[projeto]  N M S @SUBJ> #2->3 
@@ -112,7 +112,7 @@ $) #25->0
 $. #26->0 
 
 
-<s id="4206" ref="CF997-2" source="CETENFolha n=997 cad=Ilustrada sec=nd sem=94a" forest="1" text="O cineasta italiano Franco Zefirelli revelou que, para iludir o serviço militar durante o período fascista, se tornou um partisan e acabou matando um soldado alemão.">
+<s id="4206" ref="CF997-2" source="CETENFolha n=997 cad=Ilustrada sec=nd sem=94a" forest="1" text="O cineasta italiano Franco_Zefirelli revelou que, para iludir o serviço_militar durante o período fascista, se tornou um partisan e acabou matando um soldado alemão.">
 
 O	[o] <artd> ART M S @>N #1->2 
 cineasta	[cineasta]  N M S @SUBJ> #2->5 
@@ -143,7 +143,7 @@ alemão	[alemão]  ADJ M S @N< #26->25
 $. #27->0 
 
 
-<s id="4210" ref="CF998-2" source="CETENFolha n=998 cad=Dinheiro sec=eco sem=94a" forest="1" text="Mas é também preciso a sociedade mobilizar-se para sensibilizar o futuro Congresso Nacional na promoção de reformas constitucionais indispensáveis ao êxito das mudanças pretendidas.">
+<s id="4210" ref="CF998-2" source="CETENFolha n=998 cad=Dinheiro sec=eco sem=94a" forest="1" text="Mas é também preciso a sociedade mobilizar-se para sensibilizar o futuro Congresso_Nacional na promoção de reformas constitucionais indispensáveis ao êxito das mudanças pretendidas.">
 
 Mas	[mas]  KC  @CO #1->2 
 é	[ser] <mv> V PR 3S IND @FS-STA #2->0 
@@ -175,7 +175,7 @@ pretendidas	[pretender]  V PCP F P @ICL-N< #27->26
 $. #28->0 
 
 
-<s id="4155" ref="CF984-1" source="CETENFolha n=984 cad=Cotidiano sec=soc sem=94a" forest="1" text="Na Anhanguera, que une São Paulo a Ribeirão Preto, costuma haver neblina pesada entre o km 21 e o km 43, também perto de Perus e Cajamar.">
+<s id="4155" ref="CF984-1" source="CETENFolha n=984 cad=Cotidiano sec=soc sem=94a" forest="1" text="Na Anhanguera, que une São_Paulo a Ribeirão_Preto, costuma haver neblina pesada entre o km 21 e o km 43, também perto_de Perus e Cajamar.">
 
 Em	[em] <sam-> PRP  @ADVL> #1->12 
 a	[o] <artd> ART F S @>N #2->3 
@@ -242,7 +242,7 @@ depois	[depois]  ADV  @<ADVL #29->28
 $. #30->0 
 
 
-<s id="4158" ref="CF984-4" source="CETENFolha n=984 cad=Cotidiano sec=soc sem=94a" forest="1" text="O mais perigoso é na região da Serra das Conchas, entre o km 129 e o km 162, logo após Tatuí, para quem vai para o interior."> 
+<s id="4158" ref="CF984-4" source="CETENFolha n=984 cad=Cotidiano sec=soc sem=94a" forest="1" text="O mais perigoso é na região da Serra_das_Conchas, entre o km 129 e o km 162, logo após Tatuí, para quem vai para o interior."> 
 
 O	[o] <artd> ART M S @SUBJ> #1->4 
 mais	[mais] <KOMP> ADV  @>A #2->3 
@@ -277,7 +277,7 @@ interior	[interior]  N M S @P< #30->28
 $. #31->0 
 
 
-<s id="4091" ref="CF967-1" source="CETENFolha n=967 cad=Caderno Especial sec=nd sem=94a" forest="1" text="O prefeito de Juazeiro, Manoel Salviano (PSDB), disse que qualquer funcionário que tenha participado da recepção «foi espontaneamente, sem nenhuma pressão da prefeitura»."> 
+<s id="4091" ref="CF967-1" source="CETENFolha n=967 cad=Caderno Especial sec=nd sem=94a" forest="1" text="O prefeito de Juazeiro, Manoel_Salviano (PSDB), disse que qualquer funcionário que tenha participado da recepção «foi espontaneamente, sem nenhuma pressão da prefeitura»."> 
 
 O	[o] <artd> ART M S @>N #1->2 
 prefeito	[prefeito]  N M S @SUBJ> #2->11 
