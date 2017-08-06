@@ -1,0 +1,343 @@
+Nessa época, Fishel teria conhecido o ginecologista britânico Robert Winston, a quem convidou para um encontro científico promovido por Antinori.
+
+Nessa	SPS	em+essa
+época	NCFS	época
+,	Fc	,
+Fishel	NP0	fishel
+teria	VMI	ter
+conhecido	VMP	conhecer
+o	DA0	o
+ginecologista	NCCS	ginecologista
+britânico	AQ0	britânico
+Robert	NP0	robert
+Winston	NP0	winston
+,	Fc	,
+a	PD0	o
+quem	PR0	quem
+convidou	VMI	convidar
+para	SPS	para
+um	DI0	um
+encontro	NCMS	encontro
+científico	AQ0	científico
+promovido	VMP	promover
+por	SPS	por
+Antinori	NP0	antinori
+.	Fp	.
+
+---------------------------------------------------------
+
+Nenhum filme brasileiro foi escolhido, quebrando assim a expectativa criada em torno de "Alma Corsária" de Carlos Reichenbach e "Mil e Uma" de Suzana de Moraes.
+
+Nenhum	DI0	nenhum
+filme	NCMS	filme
+brasileiro	AQ0	brasileiro
+foi	VMI	ir
+escolhido	VMP	escolher
+,	Fc	,
+quebrando	VMG	quebrar
+assim	RG	assim
+a	DA0	o
+expectativa	NCFS	expectativa
+criada	VMP	criar
+em	SPS	em
+torno	NCMS	torno
+de	SPS	de
+"	Fe	"
+Alma	NP0	alma
+Corsária	AQ0	corsário
+"	Fe	"
+de	SPS	de
+Carlos	NP0	carlos
+Reichenbach	NP0	reichenbach
+e	CC	e
+"	Fe	"
+Mil	NP0	mil
+e	CC	e
+Uma	NP0	uma
+"	Fe	"
+de	SPS	de
+Suzana	NP0	suzana
+de	SPS	de
+Moraes	NP0	moraes
+.	Fp	.
+
+---------------------------------------------------------
+
+Na terceira colocação, 34 pontos, a Juventus de Turim visita o Genoa, 22, no limiar do rebaixamento.
+
+Na	SP+DA	em+a
+terceira	AO0	terceiro
+colocação	NCFS	colocação
+,	Fc	,
+34	Z	@card@
+pontos	NCMP	ponto
+,	Fc	,
+a	DA0	o
+Juventus	NP0	juventus
+de	SPS	de
+Turim	NP0	turim
+visita	VMI	visitar
+o	DA0	o
+Genoa	NP0	genoa
+,	Fc	,
+22	Z	@card@
+,	Fc	,
+em	SPS	em
+o	DA0	o
+limiar	NCCS	limiar
+de	SPS	de
+o	DA0	o
+rebaixamento	NCMS	rebaixamento
+.	Fp	.
+
+---------------------------------------------------------
+
+O projeto vem sendo implementado, em caráter experimental, em três escolas: Morumbi, Visconde de Porto Seguro (particulares) e Godofredo Furtado (estadual).
+
+O	DA0	o
+projeto	NCMS	projeto
+vem	VMI	vir
+sendo	VMG	ser
+implementado	VMP	implementar
+,	Fc	,
+em	SPS	em
+caráter	NCMS	caráter
+experimental	AQ0	experimental
+,	Fc	,
+em	SPS	em
+três	Z	três
+escolas	NCFP	escola
+:	Fd	:
+Morumbi	NP0	morumbi
+,	Fc	,
+Visconde	NP0	visconde
+de	SPS	de
+Porto	NCMS	porto
+Seguro	NCMS	seguro
+(	Fpa	(
+particulares	AQ0	particular
+)	Fpt	)
+e	CC	e
+Godofredo	NP0	godofredo
+Furtado	AQ0	furtado
+(	Fpa	(
+estadual	AQ0	estadual
+)	Fpt	)
+.	Fp	.
+
+---------------------------------------------------------
+
+O cineasta italiano Franco Zefirelli revelou que, para iludir o serviço militar durante o período fascista, se tornou um partisan e acabou matando um soldado alemão.
+
+O	DA0	o
+cineasta	NCCS	cineasta
+italiano	AQ0	italiano
+Franco	NCMS	franco
+Zefirelli	NP0	zefirelli
+revelou	VMI	revelar
+que	CS	que
+,	Fc	,
+para	SPS	para
+iludir	VMN	iludir
+o	DA0	o
+serviço	NCMS	serviço
+militar	AQ0	militar
+durante	SPS	durante
+o	DA0	o
+período	NCMS	período
+fascista	AQ0	fascista
+,	Fc	,
+se	PP3	se
+tornou	VMI	tornar
+um	DI0	um
+partisan	NCMS	<unknown>
+e	CC	e
+acabou	VMI	acabar
+matando	VMG	matar
+um	DI0	um
+soldado	NCMS	soldado
+alemão	AQ0	alemão
+.	Fp	.
+
+---------------------------------------------------------
+
+Mas é também preciso a sociedade mobilizar-se para sensibilizar o futuro Congresso Nacional na promoção de reformas constitucionais indispensáveis ao êxito das mudanças pretendidas.
+
+Mas	CC	mas
+é	VMI	ser
+também	RG	também
+preciso	AQ0	preciso
+a	DA0	o
+sociedade	NCFS	sociedade
+mobilizar	VMN	mobilizar
+se	PP3	se
+para	SPS	para
+sensibilizar	VMN	sensibilizar
+o	DA0	o
+futuro	AQ0	futuro
+Congresso	NCMS	congresso
+Nacional	NCMS	nacional
+em	SPS	em
+a	DA0	o
+promoção	NCFS	promoção
+de	SPS	de
+reformas	NCFP	reforma
+constitucionais	AQ0	constitucional
+indispensáveis	AQ0	indispensável
+a	SPS	a
+o	DA0	o
+êxito	NCMS	êxito
+de	SPS	de
+as	DA0	o
+mudanças	NCFP	mudança
+pretendidas	VMP	pretender
+.	Fp	.
+
+---------------------------------------------------------
+
+Na Anhanguera, que une São Paulo a Ribeirão Preto, costuma haver neblina pesada entre o km 21 e o km 43, também perto de Perus e Cajamar.
+
+Na	SP+DA	em+a
+Anhanguera	NP0	anhanguera
+,	Fc	,
+que	PR0	que
+une	VMI	unir
+São	NP0	são
+Paulo	NP0	paulo
+a	DA0	o
+Ribeirão	NCMS	ribeirão
+Preto	NCMS	preto
+,	Fc	,
+costuma	VMI	costumar
+haver	VMN	haver
+neblina	NCFS	neblina
+pesada	VMP	pesar
+entre	SPS	entre
+o	DA0	o
+km	NCCN	km
+21	Z	@card@
+e	CC	e
+o	DA0	o
+km	NCCN	km
+43	Z	@card@
+,	Fc	,
+também	RG	também
+perto	RG	perto
+de	SPS	de
+Perus	NP0	perus
+e	CC	e
+Cajamar	NP0	cajamar
+.	Fp	.
+
+---------------------------------------------------------
+
+Mesmo entendendo suas explicações sobre o programa de governo, entendo que ele tinha que ter um programa de governo, que vai dar um meio de cobrar depois.
+
+Mesmo	RG	mesmo
+entendendo	VMG	entender
+suas	DP3	seu
+explicações	NCFP	explicação
+sobre	SPS	sobre
+o	DA0	o
+programa	NCMS	programa
+de	SPS	de
+governo	NCMS	governo
+,	Fc	,
+entendo	VMI	entender
+que	CS	que
+ele	PP3	ele
+tinha	VMI	ter
+que	CS	que
+ter	VMN	ter
+um	DI0	um
+programa	NCMS	programa
+de	SPS	de
+governo	NCMS	governo
+,	Fc	,
+que	PR0	que
+vai	VMI	ir
+dar	VMN	dar
+um	DI0	um
+meio	NCMS	meio
+de	SPS	de
+cobrar	VMN	cobrar
+depois	RG	depois
+.	Fp	.
+
+---------------------------------------------------------
+
+O mais perigoso é na região da Serra das Conchas, entre o km 129 e o km 162, logo após Tatuí, para quem vai para o interior.
+
+O	DA0	o
+mais	RG	mais
+perigoso	AQ0	perigoso
+é	VMI	ser
+em	SPS	em
+a	DA0	o
+região	NCFS	região
+de	SPS	de
+a	DA0	o
+Serra	NP0	serra
+de	SPS	de
+as	DA0	o
+Conchas	NP0	conchas
+,	Fc	,
+entre	SPS	entre
+o	DA0	o
+km	NCCN	km
+129	Z	@card@
+e	CC	e
+o	DA0	o
+km	NCCN	km
+162	Z	@card@
+,	Fc	,
+logo	RG	logo
+após	SPS	após
+Tatuí	NP0	tatuí
+,	Fc	,
+para	SPS	para
+quem	PR0	quem
+vai	VMI	ir
+para	SPS	para
+o	DA0	o
+interior	NCMS	interior
+.	Fp	.
+
+---------------------------------------------------------
+
+O prefeito de Juazeiro, Manoel Salviano (PSDB), disse que qualquer funcionário que tenha participado da recepção "foi espontaneamente, sem nenhuma pressão da prefeitura".
+
+O	DA0	o
+prefeito	NCMS	prefeito
+de	SPS	de
+Juazeiro	NCMS	juazeiro
+,	Fc	,
+Manoel	NP0	manoel
+Salviano	NP0	salviano
+(	Fpa	(
+PSDB	NP0	psdb
+)	Fpt	)
+,	Fc	,
+disse	VMI	dizer
+que	CS	que
+qualquer	DI0	qualquer
+funcionário	NCMS	funcionário
+que	PR0	que
+tenha	VMS	ter
+participado	VMP	participar
+de	SPS	de
+a	DA0	o
+recepção	NCFS	recepção
+"	Fe	"
+foi	VMI	ir
+espontaneamente	RG	espontaneamente
+,	Fc	,
+sem	SPS	sem
+nenhuma	DI0	nenhum
+pressão	NCFS	pressão
+de	SPS	de
+a	DA0	o
+prefeitura	NCFS	prefeitura
+"	Fe	"
+.	Fp	.
+
